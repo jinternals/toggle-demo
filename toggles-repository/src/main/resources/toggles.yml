@@ -1,0 +1,9 @@
+toggles:
+
+    - name: "demo.advanced"
+      description: "Advanced Demo for premium client"
+      state: WIP
+
+    - name: "demo.toggle"
+      description: "Demo toggle"
+      state: WIP
